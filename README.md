@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zubair. Username-zubair024
 - 👀 I’m interested in Data Science, ML and generating useful insights from raw data.
-- 🌱 I’m currently learning Machine Learning Algorithms, Analytics and Optimization for unstructured data. 
+- 🌱 I’m currently learning Machine Learning Algorithms, Statistics and Optimization for unstructured data. 
 - 💞️ I’m looking to collaborate on interesting data science problems which helps me to push my boundaries even further.
 - 📫 How to reach me: https://www.linkedin.com/in/syed-zubair-ali-b551a2179/
 
